@@ -2,4 +2,11 @@
 
 Para usar este repositorio, deberán ejecutar el comando de ```npm install```
 
-Pero esto lo veremos en la siguiente sección
+
+
+
+
+
+Esto descargara las dependencias del proyecto una vez descargadas usted debe ejecutar
+```npm start```
+
