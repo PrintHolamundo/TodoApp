@@ -5,7 +5,7 @@ export  class TodoList{
     constructor(){
         this.todos = [];
     }
-    nuevaTodo(todo){
+    nuevoTodo(todo){
         this.todos.push(todo);
     }
     eliminarTodo(id){
